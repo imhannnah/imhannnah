@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey guys 👋
 [![](https://github.com/imhannnah/imhannnah/blob/main/snake.svg)]()
 <!--
 **imhannnah/imhannnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
