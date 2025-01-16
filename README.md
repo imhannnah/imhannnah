@@ -1,5 +1,3 @@
-# 💫About Me :
-
 ### Hi there, I'm Hanna! 👋  
 
 🎓 **Education**: MCA student at MES College of Engineering, Kuttippuram  
@@ -16,9 +14,7 @@ I'm passionate about coding, problem-solving, and continuously learning new tech
 
 Feel free to connect or check out my work! 🌟  
 
---- 
-
-Let me know if you'd like to customize it further!
+---
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=imhannnah&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imhannnah&theme=chartreuse-dark&hide_border=true)<br/>
